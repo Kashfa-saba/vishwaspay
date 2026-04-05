@@ -1,7 +1,3 @@
-
-**7️⃣ `README.md`** (Copy full version from below)
-
-```markdown
 # 🤝 Vishwaspay - Legal Ledger & Social Trust Platform
 
 > **Digitizing Informal Lending. Rebuilding Trust. One Handshake at a Time.**
@@ -15,6 +11,5 @@ In India, informal lending (Udhaar) is a **$100B+ ecosystem** built on trust. Ye
 
 ## 💡 Solution
 
-Vishwaspay digitizes informal lending through:
+Vishwaspay digitizes informal lending through the **"Cycle of Trust"**:
 
-### The "Cycle of Trust"
